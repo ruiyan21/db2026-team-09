@@ -94,9 +94,3 @@ All data management forms (Student, Instructor, Department, Course, Enrollment, 
 - **Data Not Loading**: Check database connectivity and ensure tables contain data. Verify SQL queries in the application code if you are a developer.
 - **Application Crashes**: Review system requirements. Consult the application logs (if any) for error details.
 
-**8. Team Members**
-
-- **[Team Member Name 1]** - [Role/Contribution]
-- **[Team Member Name 2]** - [Role/Contribution]
-- **[Team Member Name 3]** - [Role/Contribution]
-- **Manus AI** - Documentation Generation
