@@ -68,9 +68,3 @@ The application is modularized into several functional areas, accessible via the
 - **Data Management Forms**: Dedicated forms for Students, Instructors, Departments, Courses, Enrollment, and Scheduling, all following a consistent CRUD pattern.
 - **Report & Analysis (Report\_Analysis)**: Provides tabular data and dynamic chart visualizations (e.g., Students by Department pie chart).
 
-**7. Team Members**
-
-- **[Team Member Name 1]** - [Role/Contribution]
-- **[Team Member Name 2]** - [Role/Contribution]
-- **[Team Member Name 3]** - [Role/Contribution]
-- **Manus AI** - Documentation Generation
